@@ -1,0 +1,4 @@
+led: pata corta --> negativo --> GROUND
+	 pata larga --> positivo --> resistencia --> cualquier posicion en arduino menos GROUND
+
+transductor - aparato que convierte energia electrica en mecanica
